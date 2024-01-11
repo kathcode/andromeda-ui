@@ -1,4 +1,4 @@
-export interface INotes {
+export interface INote {
   category: string;
   createdAt: Date
   recordLink: string;
